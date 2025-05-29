@@ -1,1 +1,2 @@
-"# OdinProject" 
+Odin project Fundamentals
+Front end
